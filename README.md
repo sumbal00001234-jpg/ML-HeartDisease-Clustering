@@ -31,9 +31,9 @@ This project applies **3 unsupervised clustering algorithms** to discover natura
 
 | Algorithm | Silhouette Score | Clusters |
 |-----------|-----------------|----------|
-| K-Means | 0.XX | 3 |
-| Hierarchical | 0.XX | 3 |
-| DBSCAN | 0.XX | X |
+| K-Means | 0.12467708438917 | 3 |
+| Hierarchical | 0.153312945473241 | 3 |
+| DBSCAN | -1 | 1 |
 
 ---
 
