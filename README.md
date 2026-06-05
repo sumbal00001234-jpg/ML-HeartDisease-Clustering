@@ -36,7 +36,7 @@ This project applies **3 unsupervised clustering algorithms** to discover natura
 | **Hierarchical** | **0.1533** | **0.058** | **3** | **0** |
 | DBSCAN | -1 | 0.170 | 1 | 47 |
 
-** Best Algorithm:** Hierarchical Clustering (Highest silhouette score: 0.1533)
+**Best Algorithm:** Hierarchical Clustering (Highest silhouette score: 0.1533)
 
 ---
 
